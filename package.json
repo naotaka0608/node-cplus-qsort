@@ -1,0 +1,16 @@
+{
+  "name": "cplus-qsort",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "microtime": "^3.0.0",
+    "node-addon-api": "^3.0.0"
+  }
+}
